@@ -1,0 +1,12 @@
+# ################################# #
+# PYTHON LIBRARY VENV INSTALLATIONS #
+# ################################# #
+
+# Data Processing Libraries
+pandas == 2.2.3
+numpy
+scipy
+
+# Data Visualization Libraries
+matplotlib
+seaborn
